@@ -1,4 +1,17 @@
 ---
 label: kjhg
 hide_body: false
-fields: []
+fields:
+- name: cfnjvfnhjvf
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: cfnjvfnhjvf
+  description: dhtfhjygfhjy
